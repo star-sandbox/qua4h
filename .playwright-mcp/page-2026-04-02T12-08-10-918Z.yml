@@ -1,0 +1,192 @@
+- generic [active] [ref=e1]:
+  - navigation "Main navigation" [ref=e2]:
+    - generic [ref=e3]:
+      - link "Eco-Eye home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "QUA4H logo" [ref=e5]
+        - generic [ref=e6]: ECO-EYE
+      - button "Toggle navigation menu" [ref=e7] [cursor=pointer]
+  - main [ref=e11]:
+    - region "Solution, features & differentiation" [ref=e12]:
+      - generic [ref=e13]:
+        - navigation "Breadcrumb" [ref=e14]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: index.html
+          - generic [ref=e16]: /
+          - generic [ref=e17]: Product
+        - generic [ref=e18]: Product
+        - heading "Solution, features & differentiation" [level=1] [ref=e19]
+        - paragraph [ref=e20]: Eco-Eye is a behavior-change platform delivered as an AI camera and companion app — designed to make sustainability visible, actionable, and engaging for every household member.
+    - region "An AI Eye That Watches Over Your Home" [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: Our Solution
+        - generic [ref=e24]:
+          - generic [ref=e25]:
+            - heading "An AI Eye That Watches Over Your Home" [level=2] [ref=e26]:
+              - text: An AI Eye That Watches
+              - text: Over Your Home
+            - paragraph [ref=e27]: Eco-Eye is a smart camera system that understands your home environment, identifies wasteful behaviors as they occur, and guides your household toward more sustainable choices — one action at a time.
+            - paragraph [ref=e28]: Unlike passive energy monitors that only report consumption after the fact, Eco-Eye acts in real time. Its AI engine observes household activity, identifies specific waste events — a light left on in an unoccupied room, a running tap, an appliance left idle — and immediately delivers a personalized recommendation through the companion app.
+            - paragraph [ref=e29]: By displaying the CO₂ saved and energy conserved from each corrected behavior, Eco-Eye creates a tangible, motivating link between daily action and real-world environmental impact. Over time, this feedback loop drives lasting behavioral change at the household level.
+            - link "See all features" [ref=e30] [cursor=pointer]:
+              - /url: "#features"
+          - generic [ref=e31]:
+            - img [ref=e33]
+            - generic [ref=e34]:
+              - img [ref=e35]
+              - text: AI-Powered · 2.0
+        - generic [ref=e37]:
+          - generic [ref=e38]:
+            - generic [ref=e39]: "1"
+            - generic [ref=e40]:
+              - heading "Detect" [level=4] [ref=e41]
+              - paragraph [ref=e42]: The AI camera monitors your home in real time, identifying electricity and water waste as it happens — no manual input required.
+          - generic [ref=e43]:
+            - generic [ref=e44]: "2"
+            - generic [ref=e45]:
+              - heading "Suggest" [level=4] [ref=e46]
+              - paragraph [ref=e47]: Smart, personalized recommendations are delivered through the companion app in the moment each waste event is detected.
+          - generic [ref=e48]:
+            - generic [ref=e49]: "3"
+            - generic [ref=e50]:
+              - heading "Score" [level=4] [ref=e51]
+              - paragraph [ref=e52]: Every sustainable action earns Eco Points. Households track their daily green score and unlock achievement levels.
+          - generic [ref=e53]:
+            - generic [ref=e54]: "4"
+            - generic [ref=e55]:
+              - heading "Impact" [level=4] [ref=e56]
+              - paragraph [ref=e57]: The app translates habit change into cumulative, visible CO₂ savings — making each household's contribution measurable.
+    - region "Built to Change Behavior, Not Just Track It" [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e60]: Product Features
+        - heading "Built to Change Behavior, Not Just Track It" [level=2] [ref=e61]:
+          - text: Built to Change Behavior,
+          - text: Not Just Track It
+        - paragraph [ref=e62]: Eco-Eye 2.0 ships with four core features that work together to deliver a complete behavior change platform for the modern household. Each feature is designed with long-term engagement in mind.
+        - generic [ref=e63]:
+          - article "Waste Detection AI" [ref=e64]:
+            - img [ref=e66]
+            - generic [ref=e69]: Core AI Engine
+            - heading "Waste Detection AI" [level=3] [ref=e70]
+            - paragraph [ref=e71]: The camera's computer vision engine identifies electricity waste, water waste, and over-running appliances in real time — requiring zero manual logging from the user. The system learns each home's usage patterns and improves accuracy over time.
+            - generic [ref=e72]:
+              - img [ref=e73]
+              - text: Zero manual input required
+          - article "Smart Suggestions" [ref=e75]:
+            - img [ref=e77]
+            - generic [ref=e79]: Intelligent Guidance
+            - heading "Smart Suggestions" [level=3] [ref=e80]
+            - paragraph [ref=e81]: When waste is detected, Eco-Eye delivers a timely, personalized recommendation through the companion app. Suggestions are calibrated to each user's individual behavior patterns, making them relevant, actionable, and welcomed rather than intrusive.
+            - generic [ref=e82]:
+              - img [ref=e83]
+              - text: Personalized per household member
+          - article "Eco Score System" [ref=e85]:
+            - img [ref=e87]
+            - generic [ref=e89]: Gamification Layer
+            - heading "Eco Score System" [level=3] [ref=e90]
+            - paragraph [ref=e91]: Every sustainable action earns points in a daily "green" scoring system. Households build streaks, unlock achievement levels, and track their ranking — creating sustained motivation that far outlasts any one-time awareness campaign.
+            - generic [ref=e92]:
+              - img [ref=e93]
+              - text: Drives long-term engagement
+          - article "Family Challenge Mode" [ref=e95]:
+            - img [ref=e97]
+            - generic [ref=e99]: Household Engagement
+            - heading "Family Challenge Mode" [level=3] [ref=e100]
+            - paragraph [ref=e101]: The entire household participates together. Family Challenge Mode introduces friendly competition between members, making sustainability a shared household goal rather than an individual obligation — and significantly strengthening product retention.
+            - generic [ref=e102]:
+              - img [ref=e103]
+              - text: Increases household retention
+    - region "Eco-Eye in Four Years" [ref=e105]:
+      - generic [ref=e106]:
+        - generic [ref=e107]: Product Roadmap
+        - heading "Eco-Eye in Four Years" [level=2] [ref=e108]
+        - paragraph [ref=e109]: From R&D prototype to a solar-powered smart home platform — each generation builds on the last to deepen behavioral impact and expand reach across Vietnam.
+        - generic [ref=e110]:
+          - generic "R&D" [ref=e111]:
+            - generic [ref=e112]: "2026"
+            - generic [ref=e113]:
+              - img [ref=e115]
+              - generic [ref=e117]: Phase 1
+              - heading "R&D" [level=3] [ref=e118]
+              - paragraph [ref=e119]: Building and training the core AI engine. Hardware prototyping and testing. Pilot deployments in Ho Chi Minh City.
+              - list [ref=e120]:
+                - listitem [ref=e121]: AI model development
+                - listitem [ref=e122]: Hardware prototyping
+                - listitem [ref=e123]: Pilot testing
+          - generic "Eco-Eye 2.0" [ref=e124]:
+            - generic [ref=e125]: 2027 – 2028
+            - generic [ref=e126]:
+              - img "Eco-Eye 2.0 — 2027 launch model"
+              - generic [ref=e127]: Phase 2
+              - heading "Eco-Eye 2.0" [level=3] [ref=e128]
+              - paragraph [ref=e129]: The first commercial product. All four core behavior-change features ship together, covering Ho Chi Minh City and expanding to Hanoi.
+              - list [ref=e130]:
+                - listitem [ref=e131]: Waste Detection AI
+                - listitem [ref=e132]: Smart Suggestions
+                - listitem [ref=e133]: Eco Score System
+                - listitem [ref=e134]: Family Challenge Mode
+          - generic "Eco-Eye 3.0" [ref=e135]:
+            - generic [ref=e136]: "2029"
+            - generic [ref=e137]:
+              - img "Eco-Eye 3.0 — 2029 nationwide model"
+              - generic [ref=e138]: Phase 3
+              - heading "Eco-Eye 3.0" [level=3] [ref=e139]
+              - paragraph [ref=e140]: Smarter and smaller. Nationwide rollout with next-generation hardware engineered for efficiency, autonomy, and deep smart home integration.
+              - list [ref=e141]:
+                - listitem [ref=e142]: All Eco-Eye 2.0 features
+                - listitem [ref=e143]: Solar power
+                - listitem [ref=e144]: AI sleep mode
+                - listitem [ref=e145]: Smart home integration
+        - link "See the full expansion roadmap →" [ref=e147] [cursor=pointer]:
+          - /url: roadmap.html
+    - region "Three Reasons Eco-Eye Stands Apart" [ref=e148]:
+      - generic [ref=e149]:
+        - generic [ref=e150]: Why Eco-Eye
+        - heading "Three Reasons Eco-Eye Stands Apart" [level=2] [ref=e151]:
+          - text: Three Reasons Eco-Eye
+          - text: Stands Apart
+        - paragraph [ref=e152]: Generic smart home devices monitor energy use. Eco-Eye changes the way people relate to energy use. That distinction is our defensible competitive advantage.
+        - generic [ref=e153]:
+          - generic [ref=e154]:
+            - generic [ref=e155]: "01"
+            - img [ref=e157]
+            - heading "A Truly Integrated Platform" [level=3] [ref=e160]
+            - paragraph [ref=e161]: Eco-Eye combines hardware (AI camera), software (companion app), and behavioral science (gamification) into a single, seamless experience. Competing approaches are fragmented — requiring users to piece together separate monitors, apps, and dashboards. Eco-Eye delivers the complete platform out of the box.
+          - generic [ref=e162]:
+            - generic [ref=e163]: "02"
+            - img [ref=e165]
+            - heading "Context-Aware AI Intelligence" [level=3] [ref=e167]
+            - paragraph [ref=e168]: "Eco-Eye is not merely an AI product — it is an intelligent AI agent that understands its surroundings. It does not simply measure kilowatts or detect heat. It recognizes specific behaviors in specific contexts: a television running in an empty room, a tap left on after handwashing. This contextual intelligence underpins the entire behavior-change capability."
+          - generic [ref=e169]:
+            - generic [ref=e170]: "03"
+            - img [ref=e172]
+            - heading "We Change Behavior, Not Just Data" [level=3] [ref=e174]
+            - paragraph [ref=e175]: Passive monitoring tools tell you what happened. Eco-Eye tells you what to do differently — and makes you want to do it. Through eco scores, smart suggestions, and family challenges, Eco-Eye drives measurable, durable shifts in household behavior. That is the only outcome that produces real carbon reduction at scale.
+  - contentinfo [ref=e176]:
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - generic [ref=e179]: ECO-EYE
+        - paragraph [ref=e180]: Carbon Footprint Camera
+        - paragraph [ref=e181]: by QUA4H
+      - navigation "Footer navigation" [ref=e182]:
+        - link "Home" [ref=e183] [cursor=pointer]:
+          - /url: index.html
+        - link "Product" [ref=e184] [cursor=pointer]:
+          - /url: product.html
+        - link "Market" [ref=e185] [cursor=pointer]:
+          - /url: market.html
+        - link "Roadmap" [ref=e186] [cursor=pointer]:
+          - /url: roadmap.html
+        - link "About" [ref=e187] [cursor=pointer]:
+          - /url: company.html
+        - link "Team" [ref=e188] [cursor=pointer]:
+          - /url: team.html
+        - link "Partners" [ref=e189] [cursor=pointer]:
+          - /url: partners.html
+      - generic [ref=e190]:
+        - paragraph [ref=e191]: Get in touch
+        - link "qua4hqua4hABS@gmail.com" [ref=e192] [cursor=pointer]:
+          - /url: mailto:qua4hqua4hABS@gmail.com
+    - generic [ref=e194]:
+      - generic [ref=e195]: © 2026 Eco-Eye · QUA4H. All rights reserved.
+      - generic [ref=e196]: Building a sustainable Vietnam, one home at a time.

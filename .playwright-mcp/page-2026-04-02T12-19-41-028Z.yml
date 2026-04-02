@@ -1,0 +1,238 @@
+- generic [active] [ref=e1]:
+  - navigation "Main navigation" [ref=e2]:
+    - generic [ref=e3]:
+      - link "Eco-Eye home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "QUA4H logo" [ref=e5]
+        - generic [ref=e6]: ECO-EYE
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Home" [ref=e9] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e10]:
+          - link "Product" [ref=e11] [cursor=pointer]:
+            - /url: product.html
+            - text: Product
+            - img [ref=e12]
+        - listitem [ref=e14]:
+          - link "Market" [ref=e15] [cursor=pointer]:
+            - /url: market.html
+            - text: Market
+            - img [ref=e16]
+        - listitem [ref=e18]:
+          - link "Roadmap" [ref=e19] [cursor=pointer]:
+            - /url: roadmap.html
+        - listitem [ref=e20]:
+          - link "Company" [ref=e21] [cursor=pointer]:
+            - /url: company.html
+            - text: Company
+            - img [ref=e22]
+        - listitem [ref=e24]:
+          - link "Partner With Us" [ref=e25] [cursor=pointer]:
+            - /url: partners.html
+  - main [ref=e26]:
+    - region "Problem, opportunity & reach" [ref=e27]:
+      - generic [ref=e28]:
+        - navigation "Breadcrumb" [ref=e29]:
+          - link "Home" [ref=e30] [cursor=pointer]:
+            - /url: index.html
+          - generic [ref=e31]: /
+          - generic [ref=e32]: Market
+        - generic [ref=e33]: Market
+        - heading "Problem, opportunity & reach" [level=1] [ref=e34]
+        - paragraph [ref=e35]: Vietnam's households need real-time behavioral visibility. Eco-Eye addresses a structural gap between awareness and action — with a go-to-market plan built for scale.
+    - region "The Problem We're Solving" [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]: Market Pain Points
+        - heading "The Problem We're Solving" [level=2] [ref=e39]
+        - paragraph [ref=e40]: Vietnam's demand for electricity and clean water is growing rapidly. Yet household resource consumption remains largely unmonitored, unmanaged, and disconnected from the country's broader climate commitments. Three systemic barriers stand in the way.
+        - generic [ref=e41]:
+          - generic [ref=e42]:
+            - generic [ref=e43]: "01"
+            - img [ref=e45]
+            - heading "Invisible Waste" [level=3] [ref=e47]
+            - paragraph [ref=e48]: Households consume energy and water without visibility into where the waste actually occurs. Without real-time feedback, inefficient behaviors persist unnoticed — lights left on, appliances left running, water flowing unnecessarily.
+          - generic [ref=e49]:
+            - generic [ref=e50]: "02"
+            - img [ref=e52]
+            - heading "Awareness Without Action" [level=3] [ref=e54]
+            - paragraph [ref=e55]: Many households are aware of their environmental impact, yet still fail to change daily routines. Knowing is not enough — sustained behavior change requires consistent nudging, structured feedback loops, and positive reinforcement over time.
+          - generic [ref=e56]:
+            - generic [ref=e57]: "03"
+            - img [ref=e59]
+            - heading "No Carbon Feedback Loop" [level=3] [ref=e61]
+            - paragraph [ref=e62]: People cannot visualize how their individual actions translate into CO₂ reductions. Without a direct, personal connection between daily behavior and climate impact, motivation to act sustainably remains abstract and short-lived.
+        - note [ref=e63]:
+          - img [ref=e65]
+          - generic [ref=e67]:
+            - heading "The Market Gap" [level=4] [ref=e68]
+            - paragraph [ref=e69]:
+              - text: "Vietnam faces increasing pressure to meet its climate commitments while managing surging household electricity and water demand. No existing consumer product in the Vietnamese market addresses the root cause: real-time behavioral visibility at the household level."
+              - emphasis [ref=e70]: Supporting market statistics to be incorporated from research partners prior to investor presentation.
+    - region "Why the Time Is Now" [ref=e71]:
+      - generic [ref=e72]:
+        - generic [ref=e73]: Market Opportunity
+        - heading "Why the Time Is Now" [level=2] [ref=e74]
+        - paragraph [ref=e75]: Three converging forces are creating an urgent and rapidly expanding market for household sustainability technology in Vietnam.
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - img [ref=e79]
+            - heading "Surging Resource Demand" [level=3] [ref=e81]
+            - paragraph [ref=e82]: Vietnam's rapid urbanization and economic growth are driving significant increases in household electricity and clean water consumption. Demand is rising faster than infrastructure and efficiency programs can offset, creating pressure at both the household and national level.
+            - paragraph [ref=e83]: Supporting market data to be incorporated from research partners prior to investor presentation.
+          - generic [ref=e84]:
+            - img [ref=e86]
+            - heading "Vietnam's Climate Commitments" [level=3] [ref=e88]
+            - paragraph [ref=e89]: Vietnam has made formal climate pledges as part of its national development strategy, committing to measurable reductions in carbon emissions. These commitments create institutional momentum for sustainability solutions and growing consumer awareness of individual responsibility.
+            - paragraph [ref=e90]: Supporting policy data to be incorporated from government and research sources.
+          - generic [ref=e91]:
+            - img [ref=e93]
+            - heading "Rising Sustainability Consciousness" [level=3] [ref=e96]
+            - paragraph [ref=e97]: A growing segment of Vietnamese consumers — particularly urban, middle-class households — are actively seeking tools that help them live more sustainably. Cost savings and environmental responsibility are converging as purchase motivators, creating ideal market conditions for Eco-Eye.
+            - paragraph [ref=e98]: Consumer research data to be incorporated pending market study completion.
+    - region "Who Eco-Eye Is Built For" [ref=e99]:
+      - generic [ref=e100]:
+        - generic [ref=e101]: Target Audience
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - heading "Who Eco-Eye Is Built For" [level=2] [ref=e104]:
+              - text: Who Eco-Eye
+              - text: Is Built For
+            - paragraph [ref=e105]: Eco-Eye is designed for households that care about both their financial well-being and their environmental impact — and are ready for a tool that bridges the gap between good intentions and real, measurable action.
+            - generic [ref=e106]:
+              - generic [ref=e107]:
+                - img [ref=e109]
+                - generic [ref=e112]:
+                  - heading "Urban Family Households" [level=4] [ref=e113]
+                  - paragraph [ref=e114]: Households in Ho Chi Minh City and Hanoi with children, seeking to reduce utility bills and model responsible living for the next generation.
+              - generic [ref=e115]:
+                - img [ref=e117]
+                - generic [ref=e119]:
+                  - heading "Cost-Aware Homeowners" [level=4] [ref=e120]
+                  - paragraph [ref=e121]: Middle-income households where electricity and water are a meaningful monthly expense, and where behavioral changes deliver tangible, measurable financial returns.
+              - generic [ref=e122]:
+                - img [ref=e124]
+                - generic [ref=e126]:
+                  - heading "Sustainability-Minded Consumers" [level=4] [ref=e127]
+                  - paragraph [ref=e128]: Environmentally conscious individuals who want to translate their values into measurable household action — and share that progress with their family and community.
+          - generic [ref=e129]:
+            - generic [ref=e130]:
+              - heading "Core Customer Insight" [level=3] [ref=e131]
+              - blockquote [ref=e132]: "\"They care about saving money and protecting the environment — but they lack the tools to do either effectively. They want to live sustainably, but need guidance and encouragement to make it stick.\""
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - generic [ref=e135]: Age Range
+                - generic [ref=e136]: 25 – 45
+              - generic [ref=e137]:
+                - generic [ref=e138]: Location
+                - generic [ref=e139]: Urban Vietnam
+              - generic [ref=e140]:
+                - generic [ref=e141]: Income Level
+                - generic [ref=e142]: Middle & Upper-Middle
+              - generic [ref=e143]:
+                - generic [ref=e144]: Behavioral Profile
+                - generic [ref=e145]: Sustainability-Oriented
+    - region "Where Customers Find Eco-Eye" [ref=e146]:
+      - generic [ref=e147]:
+        - generic [ref=e148]: Go-to-Market
+        - heading "Where Customers Find Eco-Eye" [level=2] [ref=e149]
+        - paragraph [ref=e150]: A three-channel distribution strategy ensures Eco-Eye reaches customers at multiple discovery touchpoints, with e-commerce as the primary and most scalable launch channel.
+        - generic [ref=e151]:
+          - generic [ref=e152]:
+            - generic [ref=e153]: Priority Channel
+            - img [ref=e155]
+            - heading "E-Commerce" [level=3] [ref=e157]
+            - paragraph [ref=e158]: Direct-to-consumer sales through leading Vietnamese e-commerce platforms. This channel enables national reach from day one, low-overhead distribution, and rich behavioral data to inform product development.
+            - list [ref=e159]:
+              - listitem [ref=e160]: — Shopee, Lazada, and direct website
+              - listitem [ref=e161]: — Targeted digital campaigns to sustainability segments
+              - listitem [ref=e162]: — Unboxing and review content via influencer partnerships
+          - generic [ref=e163]:
+            - img [ref=e165]
+            - heading "Electronics Retail" [level=3] [ref=e167]
+            - paragraph [ref=e168]: Physical distribution through established electronics chains provides credibility and hands-on product discovery for consumers who prefer to evaluate smart home devices in person before purchasing.
+            - list [ref=e169]:
+              - listitem [ref=e170]: — Dedicated in-store demonstration zones
+              - listitem [ref=e171]: — Trained retail staff for product education
+              - listitem [ref=e172]: — Strategic placement in the smart home category
+          - generic [ref=e173]:
+            - img [ref=e175]
+            - heading "Smart Home Partners" [level=3] [ref=e177]
+            - paragraph [ref=e178]: Co-distribution and ecosystem integration with smart home system providers and property developers unlock premium, high-intent customer segments — particularly valuable for the Eco-Eye 3.0 smart home integration story.
+            - list [ref=e179]:
+              - listitem [ref=e180]: — Bundled offers with smart home system providers
+              - listitem [ref=e181]: — Integration into property developer sustainability programs
+              - listitem [ref=e182]: — B2B corporate sustainability package opportunities
+    - region "Messaging That Moves People" [ref=e183]:
+      - generic [ref=e184]:
+        - generic [ref=e185]: Marketing Strategy
+        - heading "Messaging That Moves People" [level=2] [ref=e186]
+        - paragraph [ref=e187]: Three campaign pillars anchor the Eco-Eye brand — each designed to connect sustainability to personal identity, household responsibility, and community action.
+        - generic [ref=e188]:
+          - generic [ref=e189]:
+            - generic [ref=e190]: I
+            - heading "\"We don't just track carbon. We change behavior.\"" [level=3] [ref=e191]:
+              - text: "\"We don't just track carbon."
+              - text: We change behavior."
+            - paragraph [ref=e192]: Our core brand positioning — elevating Eco-Eye above the commodity smart home device category and establishing us clearly as a behavior change platform that happens to come in the form of a camera.
+          - generic [ref=e193]:
+            - generic [ref=e194]: II
+            - heading "\"Climate change starts in our homes.\"" [level=3] [ref=e195]:
+              - text: "\"Climate change starts"
+              - text: in our homes."
+            - paragraph [ref=e196]: A direct appeal to personal responsibility. This pillar reframes climate action as something every household can and should participate in — not just governments, corporations, or distant institutions.
+          - generic [ref=e197]:
+            - generic [ref=e198]: III
+            - heading "\"One Day Without Waste, with Eco-Eye.\"" [level=3] [ref=e199]:
+              - text: "\"One Day Without Waste,"
+              - text: with Eco-Eye."
+            - paragraph [ref=e200]: A campaign-ready challenge format that drives trial, creates organic social sharing potential, and demonstrates measurable value within a single day. Designed for community activation and viral amplification.
+        - generic [ref=e201]:
+          - heading "Communication Channels" [level=3] [ref=e202]
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - img [ref=e206]
+              - generic [ref=e208]: Social Media & Content Marketing
+            - generic [ref=e209]:
+              - img [ref=e211]
+              - generic [ref=e213]: Influencer & Brand Ambassadors
+            - generic [ref=e214]:
+              - img [ref=e216]
+              - generic [ref=e219]: School & Campus Activation
+            - generic [ref=e220]:
+              - img [ref=e222]
+              - generic [ref=e224]: Workplace Sustainability Programs
+            - generic [ref=e225]:
+              - img [ref=e227]
+              - generic [ref=e229]: Strategic Climate Partnerships
+            - generic [ref=e230]:
+              - img [ref=e232]
+              - generic [ref=e234]: Community & Neighborhood Campaigns
+  - contentinfo [ref=e235]:
+    - generic [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e238]: ECO-EYE
+        - paragraph [ref=e239]: Carbon Footprint Camera
+        - paragraph [ref=e240]: by QUA4H
+      - navigation "Footer navigation" [ref=e241]:
+        - link "Home" [ref=e242] [cursor=pointer]:
+          - /url: index.html
+        - link "Product" [ref=e243] [cursor=pointer]:
+          - /url: product.html
+        - link "Market" [ref=e244] [cursor=pointer]:
+          - /url: market.html
+        - link "Roadmap" [ref=e245] [cursor=pointer]:
+          - /url: roadmap.html
+        - link "About" [ref=e246] [cursor=pointer]:
+          - /url: company.html
+        - link "Team" [ref=e247] [cursor=pointer]:
+          - /url: team.html
+        - link "Partners" [ref=e248] [cursor=pointer]:
+          - /url: partners.html
+      - generic [ref=e249]:
+        - paragraph [ref=e250]: Get in touch
+        - link "qua4hqua4hABS@gmail.com" [ref=e251] [cursor=pointer]:
+          - /url: mailto:qua4hqua4hABS@gmail.com
+    - generic [ref=e253]:
+      - generic [ref=e254]: © 2026 Eco-Eye · QUA4H. All rights reserved.
+      - generic [ref=e255]: Building a sustainable Vietnam, one home at a time.

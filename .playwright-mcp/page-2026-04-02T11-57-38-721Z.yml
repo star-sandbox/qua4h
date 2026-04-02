@@ -1,0 +1,112 @@
+- generic [active] [ref=e1]:
+  - navigation "Main navigation" [ref=e2]:
+    - generic [ref=e3]:
+      - link "Eco-Eye home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "QUA4H logo" [ref=e5]
+        - generic [ref=e6]: ECO-EYE
+      - button "Toggle navigation menu" [ref=e7] [cursor=pointer]
+  - main [ref=e11]:
+    - region "Roadmap & expansion" [ref=e12]:
+      - generic [ref=e13]:
+        - navigation "Breadcrumb" [ref=e14]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: index.html
+          - generic [ref=e16]: /
+          - generic [ref=e17]: Roadmap
+        - generic [ref=e18]: Plan
+        - heading "Roadmap & expansion" [level=1] [ref=e19]
+        - paragraph [ref=e20]: From R&D to commercial launch and nationwide coverage — how Eco-Eye evolves by generation and by city.
+    - region "A Clear Path Forward" [ref=e21]:
+      - generic [ref=e22]:
+        - generic [ref=e23]: Product Roadmap
+        - heading "A Clear Path Forward" [level=2] [ref=e24]
+        - paragraph [ref=e25]: Eco-Eye is designed to evolve. Each product generation delivers greater intelligence, autonomy, and integration — building toward a fully capable home sustainability platform.
+        - list [ref=e26]:
+          - listitem [ref=e27]:
+            - generic [ref=e29]: "2026"
+            - generic [ref=e31]:
+              - generic [ref=e32]: Current Phase
+              - heading "Research & Development" [level=3] [ref=e33]
+              - paragraph [ref=e34]: "Core product development: AI model training, camera hardware selection, companion app architecture, and user experience design. Building the technical and business foundation for a 2027 market launch."
+              - generic [ref=e35]:
+                - generic [ref=e36]: AI Model Training
+                - generic [ref=e37]: Hardware Prototyping
+                - generic [ref=e38]: App Development
+                - generic [ref=e39]: Market Research
+          - listitem [ref=e40]:
+            - generic [ref=e42]: 2027–2028
+            - generic [ref=e44]:
+              - generic [ref=e45]: Eco-Eye 2.0
+              - heading "Commercial Launch & Expansion" [level=3] [ref=e46]
+              - paragraph [ref=e47]: Commercial launch in Ho Chi Minh City in 2027, expanding to Hanoi in 2028. Eco-Eye 2.0 ships with the full core feature set, delivering a complete behavior change experience to early adopters in Vietnam's two largest urban markets.
+              - generic [ref=e48]:
+                - generic [ref=e49]: Waste Detection AI
+                - generic [ref=e50]: Smart Suggestions
+                - generic [ref=e51]: Eco Score System
+                - generic [ref=e52]: Family Challenge Mode
+          - listitem [ref=e53]:
+            - generic [ref=e55]: "2029"
+            - generic [ref=e57]:
+              - generic [ref=e58]: Eco-Eye 3.0
+              - heading "Next Generation & Nationwide" [level=3] [ref=e59]
+              - paragraph [ref=e60]: Nationwide expansion across Vietnam alongside the launch of Eco-Eye 3.0 — a smarter, smaller, more capable device featuring solar-powered operation, AI sleep mode for self-optimized energy use, and deep integration with smart home ecosystems.
+              - generic [ref=e61]:
+                - generic [ref=e62]: Solar Power
+                - generic [ref=e63]: AI Sleep Mode
+                - generic [ref=e64]: Smart Home Integration
+                - generic [ref=e65]: Nationwide Coverage
+    - region "Building Market by Market" [ref=e66]:
+      - generic [ref=e67]:
+        - generic [ref=e68]: Expansion Plan
+        - heading "Building Market by Market" [level=2] [ref=e69]
+        - paragraph [ref=e70]: Eco-Eye's expansion strategy is built for depth before breadth — establishing strong market penetration in each city before moving to the next, while continuously deepening existing markets year over year.
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: "2026"
+            - generic [ref=e74]:
+              - heading "Foundation" [level=4] [ref=e75]
+              - paragraph [ref=e76]: Product development, team formation, and go-to-market preparation. Partnership outreach and early-adopter community development.
+          - generic [ref=e77]:
+            - generic [ref=e78]: "2027"
+            - generic [ref=e79]:
+              - heading "Ho Chi Minh City Launch" [level=4] [ref=e80]
+              - paragraph [ref=e81]: Commercial launch in Vietnam's largest urban market. Initial rollout through e-commerce with targeted community campaigns. Establish first-mover brand presence.
+          - generic [ref=e82]:
+            - generic [ref=e83]: "2028"
+            - generic [ref=e84]:
+              - heading "Expansion to Hanoi" [level=4] [ref=e85]
+              - paragraph [ref=e86]: Northern market entry while deepening Ho Chi Minh City penetration. Electronics retail channel activation. Cross-city community challenge campaigns.
+          - generic [ref=e87]:
+            - generic [ref=e88]: "2029"
+            - generic [ref=e89]:
+              - heading "Nationwide & Eco-Eye 3.0" [level=4] [ref=e90]
+              - paragraph [ref=e91]: Nationwide distribution across Vietnam as Eco-Eye 3.0 launches. Smart home partnership channel activation. Consolidation as Vietnam's leading household sustainability platform.
+  - contentinfo [ref=e92]:
+    - generic [ref=e93]:
+      - generic [ref=e94]:
+        - generic [ref=e95]: ECO-EYE
+        - paragraph [ref=e96]: Carbon Footprint Camera
+        - paragraph [ref=e97]: by QUA4H
+      - navigation "Footer navigation" [ref=e98]:
+        - link "Home" [ref=e99] [cursor=pointer]:
+          - /url: index.html
+        - link "Product" [ref=e100] [cursor=pointer]:
+          - /url: product.html
+        - link "Market" [ref=e101] [cursor=pointer]:
+          - /url: market.html
+        - link "Roadmap" [ref=e102] [cursor=pointer]:
+          - /url: roadmap.html
+        - link "About" [ref=e103] [cursor=pointer]:
+          - /url: company.html
+        - link "Team" [ref=e104] [cursor=pointer]:
+          - /url: team.html
+        - link "Partners" [ref=e105] [cursor=pointer]:
+          - /url: partners.html
+      - generic [ref=e106]:
+        - paragraph [ref=e107]: Get in touch
+        - link "qua4hqua4hABS@gmail.com" [ref=e108] [cursor=pointer]:
+          - /url: mailto:qua4hqua4hABS@gmail.com
+    - generic [ref=e110]:
+      - generic [ref=e111]: © 2026 Eco-Eye · QUA4H. All rights reserved.
+      - generic [ref=e112]: Building a sustainable Vietnam, one home at a time.

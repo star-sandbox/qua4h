@@ -1,0 +1,143 @@
+- generic [active] [ref=e1]:
+  - navigation "Main navigation" [ref=e2]:
+    - generic [ref=e3]:
+      - link "Eco-Eye home" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img "QUA4H logo" [ref=e5]
+        - generic [ref=e6]: ECO-EYE
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Home" [ref=e9] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e10]:
+          - link "Product" [ref=e11] [cursor=pointer]:
+            - /url: product.html
+            - text: Product
+            - img [ref=e12]
+        - listitem [ref=e14]:
+          - link "Market" [ref=e15] [cursor=pointer]:
+            - /url: market.html
+            - text: Market
+            - img [ref=e16]
+        - listitem [ref=e18]:
+          - link "Roadmap" [ref=e19] [cursor=pointer]:
+            - /url: roadmap.html
+        - listitem [ref=e20]:
+          - link "Company" [ref=e21] [cursor=pointer]:
+            - /url: company.html
+            - text: Company
+            - img [ref=e22]
+        - listitem [ref=e24]:
+          - link "Partner With Us" [ref=e25] [cursor=pointer]:
+            - /url: partners.html
+  - main [ref=e26]:
+    - region "Hero" [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - generic [ref=e30]: Climate Tech · Smart Home · AI
+          - heading "The Camera That Sees Your Carbon" [level=1] [ref=e31]:
+            - text: The Camera That
+            - text: Sees Your
+            - emphasis [ref=e32]: Carbon
+          - paragraph [ref=e33]: Eco-Eye is an AI-powered carbon footprint camera that detects energy and water waste in real time — and turns sustainable living into a measurable, rewarding household habit.
+          - generic [ref=e34]:
+            - link "Explore the product" [ref=e35] [cursor=pointer]:
+              - /url: product.html
+            - link "See the market case" [ref=e36] [cursor=pointer]:
+              - /url: market.html#problem
+            - link "Partner with us" [ref=e37] [cursor=pointer]:
+              - /url: partners.html
+          - generic [ref=e38]: Launching 2027 · Ho Chi Minh City · Nationwide by 2029
+        - generic [ref=e39]:
+          - img "Eco-Eye Carbon Footprint Camera" [ref=e43]
+          - generic [ref=e44]:
+            - img [ref=e45]
+            - text: AI Waste Detection
+          - generic [ref=e48]:
+            - img [ref=e49]
+            - text: Real-Time Alerts
+          - generic [ref=e51]:
+            - img [ref=e52]
+            - text: CO₂ Tracked
+      - generic [ref=e56]: Scroll to explore
+    - region "Explore Eco-Eye" [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e60]: Start here
+        - heading "Explore Eco-Eye" [level=2] [ref=e61]
+        - paragraph [ref=e62]: Move through the story by topic — product vision, market opportunity, company, and how to work with us.
+        - generic [ref=e63]:
+          - article [ref=e64]:
+            - generic [ref=e65]: Product
+            - heading "Solution & features" [level=3] [ref=e66]
+            - paragraph [ref=e67]: How Eco-Eye detects waste, guides households, and turns behavior into measurable CO₂ impact.
+            - link "View product" [ref=e68] [cursor=pointer]:
+              - /url: product.html
+          - article [ref=e69]:
+            - generic [ref=e70]: Market
+            - heading "Problem & opportunity" [level=3] [ref=e71]
+            - paragraph [ref=e72]: Why Vietnam needs household-level visibility, and how we reach customers.
+            - link "View market" [ref=e73] [cursor=pointer]:
+              - /url: market.html
+          - article [ref=e74]:
+            - generic [ref=e75]: Company
+            - heading "Mission & team" [level=3] [ref=e76]
+            - paragraph [ref=e77]: Who we are, what we believe, and the leadership building Eco-Eye.
+            - link "About us" [ref=e78] [cursor=pointer]:
+              - /url: company.html
+    - region "Timeline at a glance" [ref=e79]:
+      - generic [ref=e80]:
+        - heading "Timeline at a glance" [level=2] [ref=e81]
+        - paragraph [ref=e82]: R&D through nationwide expansion — a clear path from prototype to platform.
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - generic [ref=e85]: "2026"
+            - generic [ref=e86]: R&D phase
+          - generic [ref=e87]:
+            - generic [ref=e88]: "2027"
+            - generic [ref=e89]: Market launch
+          - generic [ref=e90]:
+            - generic [ref=e91]: "2029"
+            - generic [ref=e92]: Nationwide
+        - paragraph [ref=e93]:
+          - link "See the full roadmap and expansion plan →" [ref=e94] [cursor=pointer]:
+            - /url: roadmap.html
+    - region "Build the sustainable home with us" [ref=e95]:
+      - generic [ref=e97]:
+        - generic [ref=e98]: Partners & investors
+        - heading "Build the sustainable home with us" [level=2] [ref=e99]:
+          - text: Build the sustainable
+          - text: home with us
+        - paragraph [ref=e100]: We are looking for partners who share our conviction that climate action starts with real behavior change at home.
+        - generic [ref=e101]:
+          - link "Partner with us" [ref=e102] [cursor=pointer]:
+            - /url: partners.html
+          - link "Email the team" [ref=e103] [cursor=pointer]:
+            - /url: mailto:qua4hqua4hABS@gmail.com
+  - contentinfo [ref=e104]:
+    - generic [ref=e105]:
+      - generic [ref=e106]:
+        - generic [ref=e107]: ECO-EYE
+        - paragraph [ref=e108]: Carbon Footprint Camera
+        - paragraph [ref=e109]: by QUA4H
+      - navigation "Footer navigation" [ref=e110]:
+        - link "Home" [ref=e111] [cursor=pointer]:
+          - /url: index.html
+        - link "Product" [ref=e112] [cursor=pointer]:
+          - /url: product.html
+        - link "Market" [ref=e113] [cursor=pointer]:
+          - /url: market.html
+        - link "Roadmap" [ref=e114] [cursor=pointer]:
+          - /url: roadmap.html
+        - link "About" [ref=e115] [cursor=pointer]:
+          - /url: company.html
+        - link "Team" [ref=e116] [cursor=pointer]:
+          - /url: team.html
+        - link "Partners" [ref=e117] [cursor=pointer]:
+          - /url: partners.html
+      - generic [ref=e118]:
+        - paragraph [ref=e119]: Get in touch
+        - link "qua4hqua4hABS@gmail.com" [ref=e120] [cursor=pointer]:
+          - /url: mailto:qua4hqua4hABS@gmail.com
+    - generic [ref=e122]:
+      - generic [ref=e123]: © 2026 Eco-Eye · QUA4H. All rights reserved.
+      - generic [ref=e124]: Building a sustainable Vietnam, one home at a time.
